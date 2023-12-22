@@ -1,7 +1,8 @@
 # Beagle-Serial-Adapter
-A CH340E Based Minimalist USB-Serial Adapter for BeaglePlay, AI64 and More
+A CH340E Based Minimalist USB-Serial Adapter for BeaglePlay, AI64 and More.
 
 The board is 4 layers and features components mainly sourced from LCSC for cost effectiveness and ease of building via JLC PCB or similar. 
+It is designed in KiCAD 7.0.9.
 
 ![Schematic](Images/schematic.png?raw=true "Schematic")
 
