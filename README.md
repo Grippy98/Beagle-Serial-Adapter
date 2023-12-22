@@ -11,4 +11,5 @@ Front           |  Back
 :-------------------------:|:-------------------------:
 ![Front](Images/front.png?raw=true "Front")  |  ![Back](Images/back.png?raw=true "Back")
 
-###IMPORTANT NOTE - The header at the bottom should be Female to mate with BeaglePlay, not male as shown in the 3D render.
+> [!NOTE]  
+> The header at the bottom should be Female to mate with BeaglePlay, not male as shown in the 3D render.
